@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Hikarin",
+        "thainame": "ฮิคาริน",
+        "nativename": "ฮิคาริน",
+        "color": "Yellow",
+        "birthdate": "15-11-1999",
+        "height": "158",
+        "bloodgroup": "O",
+        "gen": "1"
+    },
+    {
+        "id": 2,
+        "name": "Mary",
+        "thainame": "แมรี่",
+        "nativename": "แมรี่",
+        "color": "Pink",
+        "birthdate": "09-09-1997",
+        "height": "165",
+        "bloodgroup": "B",
+        "gen": "1"
+    },
+    {
+        "id": 3,
+        "name": "Nico",
+        "thainame": "นิโกะ",
+        "nativename": "",
+        "color": "Purple",
+        "birthdate": "11-06",
+        "height": "157",
+        "bloodgroup": "B",
+        "gen": "1"
+    },
+    {
+        "id": 4,
+        "name": "Harupii",
+        "thainame": "ฮารุปี้",
+        "nativename": "",
+        "color": "SkyBlue",
+        "birthdate": "12-02",
+        "height": "150",
+        "bloodgroup": "A",
+        "gen": "1"
+    },
+    {
+        "id": 5,
+        "name": "Fern",
+        "thainame": "เฟิร์น",
+        "nativename": "เฟิร์น",
+        "color": "Orange",
+        "birthdate": "09-03",
+        "height": "163",
+        "bloodgroup": "O",
+        "gen": "2"
+    },
+    {
+        "id": 6,
+        "name": "Ice",
+        "thainame": "ไอซ์",
+        "nativename": "ไอซ์",
+        "color": "Red",
+        "birthdate": "06-11-1996",
+        "height": "158",
+        "bloodgroup": "A",
+        "gen": "2"
+    },
+    {
+        "id": 7,
+        "name": "Matilda",
+        "thainame": "มาทิลด้า",
+        "nativename": "มาทิลด้า",
+        "color": "White",
+        "birthdate": "06-10-1997",
+        "height": "165",
+        "bloodgroup": "B",
+        "gen": "2"
+    }
+]
